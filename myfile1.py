@@ -1,1 +1,3 @@
-print("Hello world from python file!")
+import math
+age = 10
+printf(f"{age} age")
